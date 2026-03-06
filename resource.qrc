@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Toggle1.png</file>
+        <file>Toggle2.png</file>
+    </qresource>
+</RCC>
